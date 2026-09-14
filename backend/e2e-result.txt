@@ -1,0 +1,4 @@
+PASS  login via proxy
+PASS  upload a file through the vite proxy
+
+PROXY E2E OK
